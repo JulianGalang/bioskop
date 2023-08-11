@@ -1,0 +1,30 @@
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\bin\Debug\bioskop.exe.config
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\bin\Debug\bioskop.exe
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\bin\Debug\bioskop.pdb
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\bin\Debug\bioskop.xml
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\obj\Debug\bioskop.Admin.resources
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\obj\Debug\bioskop.home.resources
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\obj\Debug\bioskop.Resources.resources
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\obj\Debug\bioskop.vbproj.GenerateResource.Cache
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\obj\Debug\bioskop.exe
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\obj\Debug\bioskop.xml
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\obj\Debug\bioskop.pdb
+C:\Users\JulianGalang\AppData\Local\Temporary Projects\bioskop\obj\Debug\bioskop.teater.resources
+A:\bioskop\bin\Debug\bioskop.exe.config
+A:\bioskop\obj\Debug\bioskop.exe
+A:\bioskop\obj\Debug\bioskop.xml
+A:\bioskop\obj\Debug\bioskop.pdb
+A:\bioskop\bin\Debug\bioskop.exe
+A:\bioskop\bin\Debug\bioskop.pdb
+A:\bioskop\bin\Debug\bioskop.xml
+A:\bioskop\obj\Debug\bioskop.Admin.resources
+A:\bioskop\obj\Debug\bioskop.film.resources
+A:\bioskop\obj\Debug\bioskop.home.resources
+A:\bioskop\obj\Debug\bioskop.Resources.resources
+A:\bioskop\obj\Debug\bioskop.teater.resources
+A:\bioskop\obj\Debug\bioskop.vbproj.GenerateResource.Cache
+A:\bioskop\obj\Debug\bioskop.transaksi.resources
+A:\bioskop\obj\Debug\bioskop.login.resources
+A:\bioskop\obj\Debug\bioskop.vbproj.AssemblyReference.cache
+A:\bioskop\obj\Debug\bioskop.vbproj.SuggestedBindingRedirects.cache
+A:\bioskop\obj\Debug\bioskop.vbproj.CoreCompileInputs.cache
